@@ -18,17 +18,17 @@ Route::get('/', function () {
 });
 
 Route::get('home/', function () {
-    return view('index');
+    return view('Home');
 });
 
 Route::get('aboutus/', function () {
-    return view('Aboutus');
+    return view('About us');
 });
 
 Route::get('imagegallery/', function () {
-    return view('imagegallery');
+    return view('image gallery');
 });
 
 Route::get('contactus/', function () {
-    return view('contactus');
+    return view('contact us');
 });

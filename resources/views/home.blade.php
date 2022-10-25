@@ -15,10 +15,10 @@
     
    
     <tr>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://127.0.0.1:8000/home/">HOME</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://127.0.0.1:8000/aboutus/">ABOUT US</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://127.0.0.1:8000/imagegallery/">IMAGE GALLERY</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://127.0.0.1:8000/contactus/">CONTACT US</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://home/">HOME</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://aboutus/">ABOUT US</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://imagegallery/">IMAGE GALLERY</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://contactus/">CONTACT US</a></th>
         
     </tr>
 </table>
