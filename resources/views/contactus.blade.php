@@ -7,7 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+<div style="border: none  ;width: 1450px;height: 80px ;background-color: rgb(37, 7, 102);">
 <table  cellspacing ="15px" cellpadding ="20px">
+
     
    
 <tr>
