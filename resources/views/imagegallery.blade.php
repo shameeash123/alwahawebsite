@@ -14,6 +14,8 @@
         height:300px;
         border: 5px;
        }
+       
+       
     </style>
    
 </head>
@@ -33,7 +35,7 @@
 
 <div > 
     <h1 id="id1">Image Gallery</h1>
-    <div class="Gallery"></div>
+    <div id="id2" class="Gallery"></div>
     <img class="A" src="{{asset('images/1A.jpg')}}" alt="">
     <div class="desc"></div>
     <img class="A" src="{{asset('images/1B.jpeg')}}" alt="">
