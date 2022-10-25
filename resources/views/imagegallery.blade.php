@@ -34,13 +34,13 @@
 <div > 
     <h1 id="id1">Image Gallery</h1>
     <div class="Gallery"></div>
-    <img class="A" src="{{asset('images/1A.JPG')}}" alt="">
+    <img class="A" src="{{asset('images/1A.jpg')}}" alt="">
     <div class="desc"></div>
     <img class="A" src="{{asset('images/1B.jpeg')}}" alt="">
     <div class="desc"></div>
-    <img class="A" src="{{asset('images/1C.JPG')}}" alt="" >
+    <img class="A" src="{{asset('images/1C.jpg')}}" alt="" >
     <div class="desc"></div>
-    <img class="A" src="{{asset('images/1D.JPG')}}" alt="">
+    <img class="A" src="{{asset('images/1D.jpg')}}" alt="">
     <div class="desc"></div>
     
     
