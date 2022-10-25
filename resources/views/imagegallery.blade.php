@@ -22,11 +22,11 @@
 <table  cellspacing ="15px" cellpadding ="20px">
     
    
-    <tr>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://home/">HOME</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://aboutus/">ABOUT US</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://imagegallery/">IMAGE GALLERY</a></th>
-        <th style="background-color:rgb(79, 79, 239) ;"><a href="http://contactus/">CONTACT US</a></th>
+<tr>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="{{url('/home')}}">HOME</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="{{url('/aboutus')}}">ABOUT US</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="{{url('/imagegallery')}}">IMAGE GALLERY</a></th>
+        <th style="background-color:rgb(79, 79, 239) ;"><a href="{{url('/contactus')}}">CONTACT US</a></th>
         
     </tr>
 </table>
